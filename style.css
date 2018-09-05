@@ -1,10 +1,65 @@
-body{
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-     color: '#777'
-     background: '#777'
-     width: '960px'
-     font-size: '18px'
+body {
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+     color: #777;
+     background: #777;
+     width: 960px;
+     font-size: 18px;
 }
-.class1{
-    background: '#ebebeb'
+.class1 {
+    background: #ebebeb;
+}
+
+h1 {
+    width: 960px;
+    height: 50px;
+    box-align: center;
+    background-color: white;
+    padding: 15px;
+    border-style: 1px solid #777;
+    float: center;
+    text-align: center;
+}
+
+nav {
+    width: 960px;
+    height: 50px;
+    box-align: center;
+    background-color: white;
+    padding: 15px;
+    border-style: 1px solid #777;
+    float: center;
+    text-align: center;
+}
+
+h2 {
+    width: 425px;
+    height: 495px;
+    background-color: white;
+    padding: 15px;
+    margin: 10px;
+    border-style: 1px solid #777;
+    float: left;
+    text-align: center;
+}
+
+h3 {
+    width: 425px;
+    height: 495px;
+    background-color: white;
+    padding: 15px;
+    margin: 10px;
+    border-style: 1px solid #777;
+    float: right;
+    text-align: center;
+}
+
+h5 {
+    width: 960px;
+    height: 50px;
+    box-align: center;
+    background-color: white;
+    padding: 15px;
+    border-style: 1px solid #777;
+    float: center;
+    text-align: center;
 }
