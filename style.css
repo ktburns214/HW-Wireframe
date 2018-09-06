@@ -39,7 +39,7 @@ section {
     width: 400px;
     height: 350px;
     background-color: white;
-    padding: 15px;
+    padding: 15px, 30px;
     margin: 10px;
     border-style: 1px solid #777;
     float: left;
@@ -60,21 +60,30 @@ article {
     height: 300px;
     background-color: #777;
     color: white;
-    padding: 10px;
+    padding: 40px, 20px;
     margin: 10px;
     border-style: 1px solid #777;
 }
 
-h1 {
-    width: 300px;
-    height: 100px;
+h2 {
+    width: 275px;
+    height: 90px;
     background-color: white;
-    padding: 10px;
+    color: #777;
+    padding: 20px;
     margin: 10px;
-    border-style: 1px solid #777;
+    border-style: 15px solid #777;
 }
 
-/* I am getting stuck on the boxes in the article.  I know that is has something to do with positioning or display, but I cannot seem to get the code to match the layout image.   */
+p1 {
+    width: 275px;
+    height: 90px;
+    background-color: white;
+    color: #777;
+    padding: 20px;
+    margin: 10px;
+    border-style: 15px solid #777;
+}
 
 footer {
     width: 960px;
